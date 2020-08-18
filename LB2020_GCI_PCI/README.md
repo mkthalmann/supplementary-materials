@@ -24,34 +24,34 @@ language in German and Chinese. *Linguistische Berichte* XX.
 
 ### Experiment 1: German Participants
 
-![Experiment 1 Results by Item](figures/exp1_byitem.pdf)
+![Experiment 1 Results by Item](figures/exp1_byitem.jpg)
 
-![Experiment 1 Results by Item](figures/exp1_byitem_2.pdf)
+![Experiment 1 Results by Item](figures/exp1_byitem_2.jpg)
 
-![Experiment 1 Results by Subject](figures/exp1_bysubject.pdf)
+![Experiment 1 Results by Subject](figures/exp1_bysubject.jpg)
 
-![Experiment 1 Results by Subject (Fillers)](figures/exp1_bysubject_filler.pdf)
+![Experiment 1 Results by Subject (Fillers)](figures/exp1_bysubject_filler.jpg)
 
 ### Experiment 2: Chinese Participants
 
-![Experiment 2 Results by Item](figures/exp2_byitem.pdf)
+![Experiment 2 Results by Item](figures/exp2_byitem.jpg)
 
-![Experiment 2 Results by Item](figures/exp2_byitem_2.pdf)
+![Experiment 2 Results by Item](figures/exp2_byitem_2.jpg)
 
-![Experiment 2 Results by Subject](figures/exp2_bysubject.pdf)
+![Experiment 2 Results by Subject](figures/exp2_bysubject.jpg)
 
-![Experiment 2 Results by Subject (Fillers)](figures/exp2_bysubject_filler.pdf)
+![Experiment 2 Results by Subject (Fillers)](figures/exp2_bysubject_filler.jpg)
 
 ## Experiments 3 and 4: Moral Judgments
 
 ## Experiment 3: German Participants
 
-![Experiment 3 Results by Item](figures/exp3_byitem.pdf)
+![Experiment 3 Results by Item](figures/exp3_byitem.jpg)
 
-![Experiment 3 Results by Subject](figures/exp3_bysubject.pdf)
+![Experiment 3 Results by Subject](figures/exp3_bysubject.jpg)
 
 ## Experiment 4: Chinese Participants
 
-![Experiment 4 Results by Item](figures/exp4_byitem.pdf)
+![Experiment 4 Results by Item](figures/exp4_byitem.jpg)
 
-![Experiment 4 Results by Subject](figures/exp4_bysubject.pdf)
+![Experiment 4 Results by Subject](figures/exp4_bysubject.jpg)
