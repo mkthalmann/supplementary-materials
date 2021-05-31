@@ -7,7 +7,7 @@ language in German and Chinese. *Linguistische Berichte* XX.
 
 > The discussion on whether some conversational implicatures (CIs) are more ‘default’ than the other
 > has taken place for a long time. While neo-Griceans (NG) insist on the distinction between
-> generalized and particularized CIs which are said to differ along numerous dimensions, so far,
+> generalized and particularized CIs, which are said to differ along numerous dimensions, so far,
 > most studies focusing on computational speed showed any enrichment is more costly than the literal
 > understanding, and therefore challenge the distinction between PCIs and GCIs. In this study, a
 > novel approach – deceptive language with false implicatures – was used to test speakers of German
