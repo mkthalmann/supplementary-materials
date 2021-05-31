@@ -1,6 +1,6 @@
-# Thalmann/Chen/Müller/Paluch/Antomo 2020 Supplementary Materials
+# Antomo/Chen/Thalmann 2021 Supplementary Materials
 
-Antomo, Mailin, Yuqiu Chen & Maik Thalmann. 2020. (Un)Selbstständigkeit von Sätzen und Main Point of Utterance: Appositive Relativsätze und deren Erwerb. *Linguistische Berichte* XX.
+Antomo, Mailin, Yuqiu Chen & Maik Thalmann. 2021. (Un)Selbstständigkeit von Sätzen und Main Point of Utterance: Appositive Relativsätze und deren Erwerb. Sonderheft *Linguistische Berichte*.
 
 ## Abstract
 
@@ -22,11 +22,15 @@ Antomo, Mailin, Yuqiu Chen & Maik Thalmann. 2020. (Un)Selbstständigkeit von Sa
 
 ## Videos
 
-Below are two sample videos from the experiment that was carried out as the basis for the publication above. The full text for the items is illustrated in the following table.
+Below are two sample videos from the experiment that was carried out as the basis for the publication above, the files can also be accessed via the `LB2021_NRRC/videos` subdirectory of this repository. The full text for the items is illustrated in the following table.
 
-![at-issue](https://github.com/mkthalmann/supplementary-materials/blob/master/LB2021_NRRC/videos/appRel1_at.mp4)
+### Non-At-Issue ARC
 
-![non-at-issue](https://github.com/mkthalmann/supplementary-materials/blob/master/LB2021_NRRC/videos/appRel1_non.mp4)
+[![SC2 Video](https://img.youtube.com/vi/Kb2VFKRnMdk/0.jpg)](https://youtu.be/Kb2VFKRnMdk)
+
+### AT-Issue ARC
+
+[![SC2 Video](https://img.youtube.com/vi/siOT9u7L41k/0.jpg)](https://youtu.be/siOT9u7L41k)
 
 
 |              	| German                                                                                                                                                                                                                                                                                                                                                                                 	| English                                                                                                                                                                                                                                                                                                                                                       	|
