@@ -18,7 +18,7 @@ language in German and Chinese. *Linguistische Berichte* 267.
 > German and Chinese participants seems to be very similar when socio-cultural factors are
 > controlled for, suggesting that this pattern is mandated linguistically. Furthermore, two control
 > experiments reveal that the patterns observed are not due to moral judgments but that they were
-> caused by a genuine linguistic distinction. 
+> caused by a genuine linguistic distinction.
 
 ## Item List
 
@@ -288,7 +288,6 @@ Note that the untruthful assertions were only used in Experiments III and IV.
 </tr>
 </tbody>
 </table>
-
 
 ## Experiments 1 and 2: Classification Task
 
