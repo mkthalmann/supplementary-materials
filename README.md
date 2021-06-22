@@ -3,11 +3,11 @@
 This repository holds supplementary materials for papers.
 
 - `LB2021_GCI_PCI` contains additional figures related to the following paper: Thalmann, Maik, Yuqiu
-  Chen, Susanne Müller, Markus Paluch & Mailin Antomo. 2020. Against PCI-GCI uniformity: Evidence
+  Chen, Susanne Müller, Markus Paluch & Mailin Antomo. 2021. Against PCI-GCI uniformity: Evidence
   from deceptive language in German and Chinese. [*Linguistische Berichte*](https://buske.de/linguistische-berichte-heft-267.html) 267.
 - `LB2021_NRRC` contains videos for the paper: Antomo, Mailin, Yuqiu
-  Chen & Maik Thalmann. 2021. (Un)Selbstständigkeit von Sätzen und Main Point of Utterance:
-  Appositive Relativsätze und deren Erwerb. Sonderheft *Linguistische Berichte*.
+  Chen & Maik Thalmann. *to appear*. (Un)Selbstständigkeit von Sätzen und Main Point of Utterance:
+  Appositive Relativsätze und deren Erwerb. Finkbeiner, Rita and Külpmann, Robert (eds.): *Selbstständigkeit von Sätzen und Satzwertigkeit von Äußerungen*. Sonderheft *Linguistische Berichte*.
 
 -----
 
