@@ -1,7 +1,7 @@
-# Thalmann/Chen/Müller/Paluch/Antomo 2020 Supplementary Materials
+# Thalmann/Chen/Müller/Paluch/Antomo 2021 Supplementary Materials
 
-Thalmann, Maik, Yuqiu Chen, Susanne Müller, Markus Paluch & Mailin Antomo. 2020. Against PCI-GCI uniformity: Evidence from deceptive
-language in German and Chinese. *Linguistische Berichte* XX.
+Thalmann, Maik, Yuqiu Chen, Susanne Müller, Markus Paluch & Mailin Antomo. 2021. Against PCI-GCI uniformity: Evidence from deceptive
+language in German and Chinese. *Linguistische Berichte* 267.
 
 ## Abstract
 
