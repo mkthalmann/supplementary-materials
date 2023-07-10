@@ -8,6 +8,7 @@ This repository holds supplementary materials for papers.
 - `LB2021_NRRC` contains videos for the paper: Antomo, Mailin, Yuqiu
   Chen & Maik Thalmann. *to appear*. (Un)Selbstständigkeit von Sätzen und Main Point of Utterance:
   Appositive Relativsätze und deren Erwerb. Finkbeiner, Rita and Külpmann, Robert (eds.): *Selbstständigkeit von Sätzen und Satzwertigkeit von Äußerungen*. Sonderheft *Linguistische Berichte*.
+- `LSA2023-factivity` contains the abstract for a poster (as well as the poster itself) Andrea Matticchio and I presented at the [LSA Summer Institute at UMass Amherst](https://blogs.umass.edu/lingstitute2023/) in 2023 with the title: *No Hard Feelings, Karttunen: When Hard Presuppositions Project*
 
 -----
 
